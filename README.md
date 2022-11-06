@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aboelsaood23
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on whatsapp  :+201145491242 / on gmail : aboelsaoodkhairy@gmail.com
 
 <!---
